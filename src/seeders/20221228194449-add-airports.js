@@ -14,7 +14,7 @@ module.exports = {
      */
 
     await queryInterface.bulkInsert(
-      "airports",
+      "Airports",
       [
         ({
           name: "kempegoda International Airport",
